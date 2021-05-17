@@ -5,7 +5,7 @@
  Name: Temperature base Fan Controller 
  Purpose: Control the speed of the motor which will be attached to a fan
           based on temperature.
- @author Michaela Hibbert, Jean Marc Yapo, Asher Abbas, 
+ @author  Michaela Hibbert(team lead), Jean Marc Yapo, Asher Abbas, 
          Yvan Philippe Kengne Ponka 
  @version 1.0 May 05 2021
 */ 
